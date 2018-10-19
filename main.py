@@ -4,3 +4,6 @@ def me (lst):
         if i[0]==i[-1] and len(i)>2:
             count=count+2
     return count
+
+#asgasfgasfhnasdfv
+#zsgsdfgdfgzsdfgfzgzsgz
